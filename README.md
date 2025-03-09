@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-这是我的介绍文件！
-我是柒柒
+爱心跳动代码
+表白可用
 

@@ -1,4 +1,4 @@
-## 爱心跳动  可尝试表白，但是方式有点low
+## 你好👋，我是柒柒，就是那个Simqiqi，欢迎来到我的Github
 
 <!--
 **Simqiqi/Simqiqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-爱心跳动代码
-表白可用
+
+## 技术支持https://camo.githubusercontent.com/945cf62e5c2bc215af6195ccfa48d88be22d5d109b8e604721c40f3faab87c5c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7675652c6e7578742c72656163742c6370702c707974686f6e2c676f2c646f636b65722c6769742c676974687562
+“花开花谢，人聚又散，谁又能记住我几年”
 
